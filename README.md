@@ -1,11 +1,9 @@
 # Log XLC 🚀
 
- > **One-Sentence Pitch:** "ImpactNet fuses decades of market data (1990–2025) with learned information signals to decide when news and price action truly matter.”
+ > **One-Sentence Pitch:** "Log XLC fuses decades of market data (1990–2025) with learned information signals to decide when news and price action truly matter.”
 
 ## 📊 Results & Performance (Placeholder)
-Below is a sample equity curve comparing the **Swing AI** strategy against the S&P 500 (SPY) benchmark over the test period (Jan 2024 – Present).
-
-![Equity Curve](./equity.jpeg)
+Equity Curve](./equity.jpeg)
 
 | Metric | Log XLC |
 | :--- | :--- |
