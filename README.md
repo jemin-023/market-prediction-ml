@@ -5,7 +5,7 @@
 ## 📊 Results & Performance (Placeholder)
 Below is a sample equity curve comparing the **Swing AI** strategy against the S&P 500 (SPY) benchmark over the test period (Jan 2024 – Present).
 
-![Equity Curve](./equity-curve.png)
+![Equity Curve](./equity.jpeg)
 
 | Metric | Log XLC |
 | :--- | :--- |
