@@ -3,7 +3,7 @@
  > **One-Sentence Pitch:** "Log XLC fuses decades of market data (1990–2025) with learned information signals to decide when news and price action truly matter.”
 
 ## 📊 Results & Performance (Placeholder)
-Equity Curve](./equity.jpeg)
+[Equity Curve](./equity.jpeg)
 
 | Metric | Log XLC |
 | :--- | :--- |
